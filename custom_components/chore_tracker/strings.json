@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "chore_group_name": "[%key:common::config_flow::data::host%]"
+        }
+      }
+    },
+    "error": {},
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured%]"
+    }
+  }
+}
