@@ -1,0 +1,23 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "A chore group already exists with the same name."
+        },
+        "error": {
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "chore_group_name": "Chore list name",
+                    "edit_existing_cg": "Edit an existing chore list"
+                }
+            }
+        }
+    },
+    "chore": {
+        "properties": {
+            "title": "Title",
+            "description": "Description"
+        }
+    }
+}
